@@ -1,0 +1,4 @@
+baseURL = 'https://broccaoleracea.github.io/'
+languageCode = 'id-id'
+title = "broccaoleracea's page"
+theme = 'hugo-theme-console'

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on broccaoleracea&#39;s page</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on broccaoleracea&#39;s page</description>
+    <generator>Hugo</generator>
+    <language>id-id</language>
+    <lastBuildDate>Wed, 21 May 2025 02:26:07 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>F4cc0852 7ac6 4b3c 9a7b Bdff57935e7a</title>
+      <link>http://localhost:1313/blog/f4cc0852-7ac6-4b3c-9a7b-bdff57935e7a/</link>
+      <pubDate>Wed, 21 May 2025 02:26:07 +0700</pubDate>
+      <guid>http://localhost:1313/blog/f4cc0852-7ac6-4b3c-9a7b-bdff57935e7a/</guid>
+      <description>&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
